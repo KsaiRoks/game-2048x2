@@ -1,0 +1,19 @@
+.game-root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.game-root>div {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.board {
+  position: relative;
+  width: 600px;
+  height: 600px;
+  background-color: #a1887f;
+  border-radius: 10px;
+}

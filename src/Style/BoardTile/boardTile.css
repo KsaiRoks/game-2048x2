@@ -1,0 +1,5 @@
+.board-tile {
+  position: absolute;
+  background-color: #bcaaa4;
+  border-radius: 10px;
+}

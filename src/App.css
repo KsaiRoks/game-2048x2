@@ -1,0 +1,9 @@
+h1 {
+  text-align: center;
+}
+
+.tile {
+  margin: 5px;
+  font-size: 24px;
+  font-weight: bold;
+}

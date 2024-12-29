@@ -1,0 +1,31 @@
+.header-root {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 16px;
+}
+
+.header-blocks {
+    display: flex;
+    gap: 20px;
+}
+
+.block {
+    width: 150px;
+    height: 150px;
+    background-color: #bcaaa4;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: #efebe9;
+}
+
+.block h6 {
+    color: white;
+    margin: 0;
+}

@@ -1,0 +1,14 @@
+.new-game-button {
+  padding: 16px;
+  background-color: #ffa726;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-size: 30px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.new-game-button:hover {
+  background-color: #fb8c00;
+}
